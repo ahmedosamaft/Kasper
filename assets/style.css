@@ -184,7 +184,7 @@ header nav i:hover {
   min-height: 100vh;
   background-size: cover;
   background-color: black;
-  background-image: url(/assets/back.jpg);
+  background-image: url(assets/back.jpg);
 }
 
 .landing .overlay {
@@ -359,7 +359,7 @@ header nav i:hover {
   height: 100vh;
   position: relative;
   display: flex;
-  background-image: url(/assets/ethan-cull-gotBhv9IKro-unsplash.jpg);
+  background-image: url(assets/ethan-cull-gotBhv9IKro-unsplash.jpg);
   background-color: #011f28;
   overflow: hidden;
   background-size: cover;
@@ -567,7 +567,7 @@ header nav i:hover {
 .stats {
   padding: 100px 0;
   text-align: center;
-  background-image: url(/assets/pop.jpg);
+  background-image: url(assets/pop.jpg);
   background-color: #057e78;
   background-size: cover;
   position: relative;
@@ -763,7 +763,7 @@ header nav i:hover {
   position: relative;
   text-align: center;
   color: white;
-  background-image: url(/assets/back.jpg);
+  background-image: url(assets/back.jpg);
 }
 
 .quote::before {
@@ -914,7 +914,7 @@ q::after {
 /* <!-- Subscribe --> */
 .subscribe {
   padding: 100px 0;
-  background-image: url(/assets/back.jpg);
+  background-image: url(assets/back.jpg);
   color: white;
   position: relative;
 }
@@ -1093,7 +1093,7 @@ margin-top: 90px;
 /* Footer */
 footer {
   padding: 50px 0;
-  background-image: url(/assets/back.jpg);
+  background-image: url(assets/back.jpg);
   color: white;
   text-align: center;
 }
