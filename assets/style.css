@@ -183,7 +183,7 @@ header nav i:hover {
 .landing {
   min-height: 100vh;
   background-size: cover;
-  background-color: black;
+  background-color: #011f28;
   background-image: url(assets/back.jpg);
 }
 
